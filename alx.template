@@ -1,0 +1,27 @@
+<loader version="1.0">
+	<application id="@midletName@">
+		<name >
+			@friendlyName@
+		</name>
+		<description >
+			Manage all your photos using BBSmart Photo Pro
+		</description>
+		<version >
+			@buildVer@
+		</version>
+		<vendor >
+			BBSmart
+		</vendor>
+		<copyright >
+			Copyright (c) 2008 BBSmart
+		</copyright>
+		<fileset Java="1.25">
+			<directory >
+				
+			</directory>
+			<files >
+				@midletName@.cod
+			</files>
+		</fileset>
+	</application>
+</loader>

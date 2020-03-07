@@ -1,0 +1,12 @@
+BBSmart Photo Pro Changelog
+---------------------------
+
+v0.3 - Third Alpha Release
+* Added multi select capabilities to Thumbnail and Detail views
+* Improved the memory scan so that it completes quicker
+
+v0.2 - Second Alpha Release
+* Fixed error with "Delete All" when no image is selected
+* Image Tracker heading now more closely represents the selected image
+
+v0.1 - First Alpha Release

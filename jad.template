@@ -1,0 +1,12 @@
+MIDlet-Name: @friendlyName@
+MIDlet-Version: @buildVer@
+MIDlet-Vendor: BBSmart
+MIDlet-Description: Take control of your photos with BBSmart Photo Pro!
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Jar-URL: @jarName@
+MIDlet-Jar-Size: @jarSize@
+MIDlet-1: BBSmart Photo Pro,res/img/icon.png,gui
+MIDlet-2: ,res/img/icon.png,
+RIM-MIDlet-Flags-1: 0
+RIM-MIDlet-Flags-2: 3
